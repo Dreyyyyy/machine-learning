@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../../flutter"
+		},
+		{
+			"path": "../../IC"
 		}
 	],
 	"settings": {}
