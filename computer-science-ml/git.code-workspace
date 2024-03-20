@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../../IC"
+		},
+		{
+			"path": "../../game-dev"
 		}
 	],
 	"settings": {}
