@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "../../game-dev"
+		},
+		{
+			"path": "../../CC02W"
 		}
 	],
 	"settings": {}
