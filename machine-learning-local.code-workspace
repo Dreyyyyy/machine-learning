@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../CC37X"
+		},
+		{
+			"path": "../CC02W"
+		},
+		{
+			"path": "../IC"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
